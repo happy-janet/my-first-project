@@ -1,0 +1,57 @@
+.janet {
+    text-align: right;
+}
+li a{
+    gap: 20px;
+    padding-right: 20px;
+}
+li a{
+    gap: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(178, 35, 35);
+    font-weight: bolder;
+    padding: 5px;
+
+}
+li a:hover{
+    background-color: brown;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    color: antiquewhite;
+}
+span{
+    font-style: oblique;
+    font-size: x-large;
+    text-align: right;
+}
+.bar{
+    color: white;
+    /* flex: 20px; */
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    background-color: brown;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+body{
+    /* background-image: url(../images/jax.jpeg); */
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 70%;               */
+    background-color: antiquewhite;
+}
+h2{
+    color: brown;
+    font-style: oblique;
+    text-align: center;
+    /* padding-top: 20px; */
+
+    
+}

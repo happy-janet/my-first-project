@@ -1,0 +1,57 @@
+body {
+    color: black;
+    background-color: blanchedalmond;
+}
+
+.janet {
+    text-align: right;
+    margin-right: 20px;
+    padding-right: 10px;
+}
+li a{
+    gap: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(123, 9, 9);
+    font-weight: bolder;
+    padding: 5px;
+
+}
+li a:hover{
+    background-color: brown;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    color: antiquewhite;
+}
+.kol{
+    background-color: whitesmoke;
+    /* border: solid; */
+    border-radius: 15px 50px 30px 5px;
+    margin-right: 100px;
+    margin-left: 100px;
+    width: 65%;
+    /* height: 50vh; */
+    padding: 20px;  
+    margin-bottom: 200px;
+        font-style: oblique;
+    font-weight: 400px;
+    box-shadow: 0 0 28px brown;
+
+}
+.bee{
+    display: flex;
+    flex-direction: row;
+    margin-right: 100px;
+    /* margin-right: 50px; */
+}
+main{
+    border-radius: 5px;
+    margin-left: 50px;
+}
+img {
+    box-shadow: 0 0 20px brown;
+    border-radius: 10px;
+}
+    
